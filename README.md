@@ -24,12 +24,12 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
 
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
+https://instagram.com/fark_bth_?utm_medium=copy_link
 
 
   ### Simple Method
