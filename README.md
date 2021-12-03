@@ -46,7 +46,7 @@ https://instagram.com/fark_bth_?utm_medium=copy_link
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/BTHSER/Amalser
 $ cd Amalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -55,7 +55,7 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/BTHSER/Amalser
 $ cd Amalser
 $ npm i
 $ node Amalser.js
@@ -64,10 +64,10 @@ $ node Amalser.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/BTHSER/Amalser">
     
 <a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/BTHSER/Amalser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Amal-ser/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
