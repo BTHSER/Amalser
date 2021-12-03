@@ -34,7 +34,7 @@ https://instagram.com/fark_bth_?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BTHSER/Amalser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BTHSER/Amalser.git)
 
 
 
