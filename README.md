@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/cyberchekuthan">BTHSER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -80,10 +80,10 @@ $ node Amalser.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BTHSER&repo=Amalser&theme=nightowl)](https://github.com/BTHSER/Amalser)
   </div>
     
 ### ⚠ Warning ⚠
@@ -102,7 +102,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![BTHSER](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/918891903813?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
